@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Erik and welcome to my GitHub page. 
+
+### Quick Facts
+
+
 <!--
 **EPrenzlin/EPrenzlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
